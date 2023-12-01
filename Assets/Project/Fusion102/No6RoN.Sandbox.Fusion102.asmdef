@@ -1,0 +1,16 @@
+{
+    "name": "No6RoN.Sandbox.Fusion102",
+    "rootNamespace": "No6RoN.Sandbox.Fusion102",
+    "references": [
+        "GUID:914a048fdb33fda4093b7d6bcbf9aa94"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

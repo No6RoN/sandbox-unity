@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Project/Fusion102/Fusion102.unity
+    guid: a089ad07c4a8b0140a1564d4a7d28da2
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Project/Fusion103/Fusion103.unity
+    guid: f25ac6fb287580d43b85e62025b9d1cb
   m_configObjects: {}
